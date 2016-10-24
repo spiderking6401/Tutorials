@@ -1,8 +1,9 @@
-Hello everyone good to see you here, Now i'm going to teach you the j2me programming languag.
+Hello everyone good to see you here, Now i'm going to teach you the j2me programming language.
 
-This programming language is used for building the small device applications.
+This programming language is used for building the small mobile device applications.
 
 REQUIREMENTS:
+  You must have core-java knowledge for learning this tutorials, if your not please through my core-java tutorials...
   javaSE jdk src: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
   
   java WirelessToolkit src: http://www.oracle.com/technetwork/java/download-135801.html
