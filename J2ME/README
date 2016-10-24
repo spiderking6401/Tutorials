@@ -1,0 +1,8 @@
+Hello everyone good to see you here, Now i'm going to teach you the j2me programming languag.
+
+This programming language is used for building the small device applications.
+
+REQUIREMENTS:
+  javaSE jdk src: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  
+  java WirelessToolkit src: http://www.oracle.com/technetwork/java/download-135801.html
